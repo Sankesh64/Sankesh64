@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a 2nd year IT student <br>Learning the Backend Fundamentals and want to build career around Full stack engineerg<br>and Data Engineer<br>
+Currently a 2nd year IT student <br>Learning the Backend Fundamentals and want to build career around Full stack engineer<br>and Data Engineer<br>
 
 
 ## 🌐 Socials:
